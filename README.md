@@ -11,14 +11,17 @@ Desenvolvedor em evolução focado no ecossistema Java e fundamentos de lógica 
 
 ### Estatísticas de Contribuição
 
-<p align="left">
-  
-  <img src="https://streak-stats.demolab.com?user=vtoorzDev&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+### Resumo de Atividades e Métricas
 
 <p align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=vtoorzDev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vtoorzDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Métricas de Atividade" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtoorzDev&layout=compact&theme=dark&hide_border=true&langs_count=3" height="150" alt="Linguagens Mais Usadas" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtoorzDev&layout=donut&theme=tokyonight&hide_border=true&langs_count=4" height="180" alt="Linguagens Utilizadas" />
+</p>
+
+<p align="left">
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vtoorzDev&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade Técnica" />
 </p>
