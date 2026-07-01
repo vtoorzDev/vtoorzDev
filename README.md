@@ -9,14 +9,6 @@ Desenvolvedor em evolução focado no ecossistema Java e fundamentos de lógica 
 
 *  Estatísticas de Contribuição
 
-### Estatísticas de Contribuição
-
-### Resumo de Atividades e Métricas
-
-### Indicadores de Atividade Técnica
-
-### Indicadores de Atividade Técnica
-
 <p align="left">
  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vtoorzDev&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Métricas Gerais" />
