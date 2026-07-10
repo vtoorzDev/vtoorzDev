@@ -1,23 +1,87 @@
-Olá, eu sou o Victor Araújo
+# Olá! Eu sou o Victor Araújo 
 
-Desenvolvedor em evolução focado no ecossistema Java e fundamentos de lógica de programação. Atualmente documentando minha jornada de estudos através de projetos práticos e desafios técnicos.
+## Desenvolvedor Backend Java Júnior
 
-### Tecnologias e Ferramentas em Estudo
-* **Linguagens:** Java
-* **Controle de Versão:** Git e GitHub
-* **Ambientes:** Windows / Git Bash
+Sou desenvolvedor backend em início de carreira, apaixonado por tecnologia e pela construção de soluções utilizando Java.
 
-*  Estatísticas de Contribuição
+Atualmente estou focado em fortalecer minha base em desenvolvimento backend através de projetos práticos, estudos constantes e desafios de programação. Meu objetivo é construir aplicações bem estruturadas, escrever código limpo e evoluir diariamente como desenvolvedor.
 
-<p align="left">
- 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vtoorzDev&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Métricas Gerais" />
-  
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vtoorzDev&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=4" height="165" alt="Linguagens de Programação" />
-</p>
+Acredito que uma boa carreira em tecnologia é construída com consistência. Por isso, utilizo este GitHub para documentar minha evolução, compartilhar projetos e aplicar na prática tudo o que estou aprendendo.
 
-<p align="left">
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vtoorzDev&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&hide_border=true&area=false" width="100%" alt="Histórico de Contribuições" />
-</p>
+---
+
+##  Atualmente estudando
+
+* Java
+* Programação Orientada a Objetos (POO)
+* Estruturas de Dados
+* Algoritmos e Lógica de Programação
+* Git e GitHub
+* Boas práticas de desenvolvimento
+
+---
+
+##  Tecnologias
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+<img src="https://skillicons.dev/icons?i=idea" height="45"/>
+<img src="https://skillicons.dev/icons?i=windows" height="45"/>
+
+</div>
+
+---
+
+##  O que você vai encontrar por aqui
+
+✔ Projetos desenvolvidos em Java
+
+✔ Exercícios de lógica de programação
+
+✔ Desafios de algoritmos
+
+✔ Estudos sobre Programação Orientada a Objetos
+
+✔ Repositórios mostrando minha evolução como desenvolvedor backend
+
+---
+
+##  Objetivo Profissional
+
+Construir uma carreira sólida como Desenvolvedor Backend Java, participando de projetos que gerem impacto e entreguem soluções de qualidade. Busco evoluir continuamente por meio de novos desafios, aprendizado constante e colaboração com equipes que valorizam boas práticas, desenvolvimento profissional e inovação.
+
+Tenho como compromisso escrever código limpo, manter uma base técnica consistente e aprimorar minhas habilidades para contribuir cada vez mais com produtos e soluções escaláveis.
+
+---
+
+##  Estatísticas
+
+<div align="center">
+
+
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vtoorzDev&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vtoorzDev&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+##  Vamos nos conectar
+
+Se você é recrutador ou desenvolvedor, fique à vontade para explorar meus projetos. Estou sempre buscando aprender, evoluir e colaborar em novos desafios.
+
+ Aberto a oportunidades como Desenvolvedor Backend Java Júnior.
