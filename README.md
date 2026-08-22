@@ -13,11 +13,11 @@ Acredito que uma boa carreira em tecnologia é construída com consistência. Po
 ##  Atualmente estudando
 
 * Java
-* Programação Orientada a Objetos (POO)
+* Programação Orientada a Objetos
+* JDBC
+* MySQL
 * Estruturas de Dados
-* Algoritmos e Lógica de Programação
 * Git e GitHub
-* Boas práticas de desenvolvimento
 
 ---
 
