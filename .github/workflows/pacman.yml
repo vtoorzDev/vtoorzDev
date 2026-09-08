@@ -4,16 +4,33 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
-      - name: Generate Pac-Man
-        uses: pencilrebel/pacman-contribution-graph@main
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_username: vtoorzDev
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
+          hide_month_labels: "false"
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
