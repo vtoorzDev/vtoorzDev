@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Victor Araújo
+#  Victor Araújo
 
 <div align="center">
 
@@ -6,33 +6,28 @@
 
 </div>
 
----
-
-<div align="center">
-
-### ☕ Desenvolvedor Backend Java Júnior
-
-<p>
-Foco em <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>APIs REST</strong> e <strong>MySQL</strong>.
+<p align="center">
+  <strong>Java</strong> •
+  <strong>Spring Boot</strong> •
+  <strong>APIs REST</strong> •
+  <strong>MySQL</strong>
 </p>
 
-</div>
-
 ---
 
-## 👨🏻‍💻 Sobre mim
+##  Sobre mim
 
 Sou desenvolvedor backend em início de carreira, com foco no ecossistema **Java + Spring Boot**.
 
-Venho construindo projetos práticos para transformar meus estudos em aplicações reais, trabalhando com desenvolvimento de APIs REST, persistência de dados, validação, tratamento de exceções e organização de aplicações em camadas.
+Venho desenvolvendo projetos práticos para transformar meus estudos em aplicações reais, trabalhando com APIs REST, persistência de dados, validação, tratamento de exceções, regras de negócio e organização de aplicações em camadas.
 
-Meu objetivo é evoluir continuamente como desenvolvedor, fortalecendo minha base técnica e aprendendo a construir sistemas cada vez mais organizados, eficientes e próximos das práticas utilizadas no mercado.
+Meu objetivo é evoluir continuamente como desenvolvedor, fortalecendo minha base técnica e construindo aplicações cada vez mais organizadas, eficientes e próximas das práticas utilizadas no mercado.
 
-Este perfil reúne meus projetos, estudos e minha evolução durante essa jornada.
+Utilizo este GitHub para documentar minha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos durante meus estudos.
 
 ---
 
-## 🚀 Stack atual
+##  Stack atual
 
 <div align="center">
 
@@ -58,7 +53,7 @@ Este perfil reúne meus projetos, estudos e minha evolução durante essa jornad
 
 ---
 
-## 🧠 Conhecimentos
+##  Conhecimentos
 
 ### Java
 
@@ -97,62 +92,49 @@ Este perfil reúne meus projetos, estudos e minha evolução durante essa jornad
 
 ---
 
-## 📚 Projeto em destaque
+##  Projeto em destaque
 
-### 📖 Biblioteca API
+###  Biblioteca API
 
 API REST desenvolvida com **Java + Spring Boot**, criada para simular o gerenciamento de uma biblioteca.
 
 ### Funcionalidades
 
-* 📚 Cadastro de livros
-* 🔎 Busca por ID
-* 🔎 Busca por título
-* 🔎 Busca por autor
-* ✏️ Atualização de livros
-* 🗑️ Exclusão de livros
-* 👤 Cadastro de usuários
-* 👤 Gerenciamento de usuários
-* ✅ Validação de dados
-* ⚠️ Tratamento de exceções
-* 🗄️ Persistência com MySQL
-* 🔗 JPA / Hibernate
-* 📑 Documentação da API
+*  Cadastro de livros
+*  Busca por ID
+*  Busca por título
+*  Busca por autor
+*  Atualização de livros
+*  Exclusão de livros
+*  Cadastro de usuários
+*  Gerenciamento de usuários
+*  Validação de dados
+*  Tratamento de exceções
+*  Persistência com MySQL
+*  JPA / Hibernate
+*  Documentação da API
 
 ### Em desenvolvimento
 
-🚧 Sistema de **empréstimos e devoluções de livros**
+ Sistema de **empréstimos e devoluções de livros**
 
 ---
 
-## 🎮 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vtoorzDev/vtoorzDev/output/pacman-contribution-graph-dark.svg"
-  />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/vtoorzDev/vtoorzDev/output/pacman-contribution-graph.svg"
-/>
-
 <img
- src="https://raw.githubusercontent.com/vtoorzDev/vtoorzDev/output/pacman-contribution-graph.svg"
- width="100%"
- alt="Pac-Man GitHub Contribution Graph"
+  src="https://ghchart.xqsit94.in/dark:0ea5e9/vtoorzDev"
+  width="100%"
+  alt="GitHub Contributions"
 />
-
-</picture>
 
 </div>
 
 ---
 
-## 📈 Desenvolvimento contínuo
+##  Desenvolvimento contínuo
 
 Meu foco de evolução atualmente segue esta linha:
 
@@ -178,17 +160,7 @@ Projetos cada vez mais completos
 
 ---
 
-## 🎯 Objetivo profissional
-
-Meu objetivo é construir uma carreira sólida como **Desenvolvedor Backend Java**, participando do desenvolvimento de sistemas e APIs que entreguem soluções eficientes, organizadas e de qualidade.
-
-Busco continuar aprofundando meus conhecimentos em **Java e Spring**, melhorar minha capacidade de resolver problemas e desenvolver cada vez mais projetos que reflitam uma evolução técnica consistente.
-
-Tenho como compromisso manter uma rotina constante de aprendizado, escrever código limpo e organizado e transformar novos conhecimentos em aplicações práticas.
-
----
-
-## 💼 Em evolução
+##  Em evolução
 
 ```text
 ✓ Java
@@ -213,7 +185,17 @@ Tenho como compromisso manter uma rotina constante de aprendizado, escrever cód
 
 ---
 
-## 🤝 Vamos nos conectar?
+##  Objetivo profissional
+
+Meu objetivo é construir uma carreira sólida como **Desenvolvedor Backend Java**, participando do desenvolvimento de sistemas e APIs que entreguem soluções eficientes, organizadas e de qualidade.
+
+Busco continuar aprofundando meus conhecimentos em **Java e Spring**, melhorar minha capacidade de resolver problemas e desenvolver cada vez mais projetos que reflitam uma evolução técnica consistente.
+
+Tenho como compromisso manter uma rotina constante de aprendizado, escrever código limpo e organizado e transformar novos conhecimentos em aplicações práticas.
+
+---
+
+##  Vamos nos conectar?
 
 Estou aberto a oportunidades como **Desenvolvedor Backend Java Júnior**.
 
