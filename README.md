@@ -28,12 +28,4 @@ development, REST APIs, and software engineering.
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
 
-<img
-  src="https://ghchart.xqsit94.in/dark:0ea5e9/vtoorzDev"
-  width="100%"
-  alt="GitHub Contributions"
-/>
-
-</div>
